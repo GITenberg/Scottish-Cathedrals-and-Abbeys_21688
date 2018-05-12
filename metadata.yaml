@@ -1,0 +1,40 @@
+_repo: Scottish-Cathedrals-and-Abbeys_21688
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Story, Robert Herbert
+    alias: Story, R. Herbert (Robert Herbert)
+    birthdate: 1835
+    deathdate: 1907
+    gutenberg_agent_id: '24863'
+    url: http://www.gutenberg.org/2009/agents/24863
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Herbert_Story
+covers:
+- cover_type: archival
+  image_path: 21688-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Butler, Dugald
+    birthdate: 1862
+    deathdate: 1926
+    gutenberg_agent_id: '24862'
+    url: http://www.gutenberg.org/2009/agents/24862
+description: ''
+gutenberg_bookshelf:
+- Architecture
+- United Kingdom
+gutenberg_issued: '2007-06-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21688'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Church architecture -- Scotland'
+- !lcsh 'Cathedrals -- Scotland'
+- !lcsh 'Abbeys -- Scotland'
+- !lcc 'NA'
+title: Scottish Cathedrals and Abbeys
+url: http://www.gutenberg.org/ebooks/21688
