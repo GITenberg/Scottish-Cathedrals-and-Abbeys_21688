@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '24862'
     url: http://www.gutenberg.org/2009/agents/24862
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21688#Scottish-Cathedrals-and-Abbeys
 gutenberg_bookshelf:
 - Architecture
 - United Kingdom
